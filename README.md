@@ -1,4 +1,4 @@
-# Contacts2020
+# Contacts2020 Android application
 Simple contacts application and online database storage usage.
 In this particular application we provided user registered account with 1500 contacts can be saved in particular account.
 we use database for CONTACTS2020 appliation backendless database to provide end to end encrption of your data and more efficiently.
